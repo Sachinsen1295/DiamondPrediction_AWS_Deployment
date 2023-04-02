@@ -26,3 +26,6 @@ use to initiate packages in setup.py
 
 
 ### Git pointing
+
+create repository and follow steps
+
