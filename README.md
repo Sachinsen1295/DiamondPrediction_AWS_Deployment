@@ -29,3 +29,7 @@ use to initiate packages in setup.py
 
 create repository and follow steps
 
+### To install kernel
+````
+pip install ipykernel
+````

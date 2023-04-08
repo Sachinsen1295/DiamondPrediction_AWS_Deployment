@@ -2,5 +2,6 @@ numpy
 pandas
 flask
 matplotlib
+typing
 
 -e .
