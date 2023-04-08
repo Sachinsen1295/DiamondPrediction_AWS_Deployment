@@ -3,5 +3,6 @@ pandas
 flask
 matplotlib
 typing
+scikit-learn
 
 -e .
