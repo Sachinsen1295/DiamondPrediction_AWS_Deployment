@@ -4,5 +4,7 @@ flask
 matplotlib
 typing
 scikit-learn
+dataclasses
+
 
 -e .
