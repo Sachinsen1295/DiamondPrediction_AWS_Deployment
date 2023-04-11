@@ -5,6 +5,7 @@ matplotlib
 typing
 scikit-learn
 dataclasses
+pickle
 
 
 -e .
