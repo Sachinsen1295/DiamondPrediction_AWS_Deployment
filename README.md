@@ -48,3 +48,8 @@ pip install ipykernel
 5. select codepipeline
 
 AWS url - http://diamondprediction-env.eba-d2bssjkh.ap-south-1.elasticbeanstalk.com/predict
+
+## For local Testing
+
+1. python application.py/app.py
+2. http://localhost:8000/predict
