@@ -1,11 +1,10 @@
 numpy
 pandas
-flask
+Flask
 matplotlib
 typing
 scikit-learn
 dataclasses
-pickle
 
 
 -e .
