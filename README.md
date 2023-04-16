@@ -46,3 +46,5 @@ pip install ipykernel
 3. change name from app.py to application.py
 4. Select beanstalk and create application #AWS Beanstalk
 5. select codepipeline
+
+AWS url - http://diamondprediction-env.eba-d2bssjkh.ap-south-1.elasticbeanstalk.com/predict
