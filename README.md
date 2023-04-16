@@ -44,4 +44,5 @@ pip install ipykernel
     WSGIPATH: application:application
     ````
 3. change name from app.py to application.py
-
+4. Select beanstalk and create application #AWS Beanstalk
+5. select codepipeline
